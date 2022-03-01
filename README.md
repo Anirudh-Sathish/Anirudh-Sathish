@@ -5,7 +5,7 @@
 - I am proficient in HTML,CSS,C,C++,Java and Python . I have startedd learning Rust 
 - I find myself interested in blockchain and facial emotion detection in occluded faces
 - I am also currently pursuing a course in cryptography 
-- I am currently - Coordiantor of the IIITDM Robotics Club
+- I am currently - Coordiantor of the IIITDM Kancheepuram Robotics Club
 - 📫 How to reach me - You can drop a mail to anirudhsathish@gmail.com
 
 <!---
