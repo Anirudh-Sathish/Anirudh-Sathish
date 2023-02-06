@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anirudh-Sathish
 - 👀 My Interests reside currently in Quantum computation and its applications in number theory 
 - 🌱 I’m currently learning Computer Vision 
-- 💞️ I am a hardcore C fan 
 - I am currently - Coordiantor of the IIITDM Kancheepuram Robotics Club
 - 📫 How to reach me - You can drop a mail to anirudhsathish@gmail.com
 
