@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Anirudh-Sathish
-- 👀 My Interests reside currently in Quantum computation and its applications in number theory 
-- 🌱 I’m currently learning Computer Vision 
-- I am currently - Coordiantor of the IIITDM Kancheepuram Robotics Club
-- 📫 How to reach me - You can drop a mail to anirudhsathish@gmail.com
+👋 Greetings! I'm @Anirudh-Sathish.
+Welcome to my GitHub page! I'm currently in the process of refining and updating my projects. My recent research involves exploring cutting-edge factorization methodologies, with plans for publication. Proficient in building and implementing deep learning models across diverse scenarios.
 
-Hey , Welcome to my github page.
-I am currently in process of revamping some of the work I have done
-I have spent some time researching state of the art factorisation methodologies , currently in the process of publishing this work
-In addition, I am quite good at building , implementing deep learning models for various scenarios
+Feel free to connect and explore my journey!
+📧 Reach out to me via email at anirudhsathish@gmail.com.
 
 [![@compiler's Holopin board](https://holopin.me/compiler)](https://holopin.io/@compiler)
 
