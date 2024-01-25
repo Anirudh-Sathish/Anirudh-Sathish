@@ -1,6 +1,6 @@
 👋 Hello! I'm Anirudh Sathish  
 Welcome to my GitHub page! I love working on things that are intruiging, challenging.I like taking up challenges,infact I look forward to challenges.I push myself to get outside my comfort zone, redefining my comfort zone in iteration.  
-**Journey**
+**Journey**  
 I have had quiet a journey in computer science.From my days of schooling, I have been very inclined academically and have consistently performed well.In my 12th std, when I was 18 years old, I met with my first challenge. Picking up what I wanted to do,I researched so many careers, read various books and autobiographies. Finally deciding that I wanted to study engineering first. I have always been the kind of person to do everything that was offered, so making this decision was indeed difficult. In this world of amazingly interesting things, how does one pick up just a single field to major in. Today, I am a lot more comfortable with the idea, but it still does not make me happy. The universe has so much to offer to us, yet is it fair for us to niche.(There are philosphical thoughts, that might agree with this, but I will not include them in my musings for now).   
 *College Starts*  
 _Semester 1_  
