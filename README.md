@@ -5,7 +5,7 @@ I have had quiet a journey in computer science.From my days of schooling, I have
 *College Starts*  
 _Semester 1_  
 So after choosing to do engineering, I signed up to do engineering in electronics and communication, later into my semester 1, I realise that the world of computer science is where all the world shattering things are happening, and I knew that I wanted to be a part of that. I had good grades in my first semester, which allowed me to change my major.So hence, I entered the field of computer science.In my first semester of education, I was exposed to programming in C, which at the time was like breeze to me. Since I had picked it up during my school days.
-_Semester 2_ 
+_Semester 2_   
 In the second semester, I faced discrete maths and data structures. I did do the course well, but I couldn't say that I was satisfied with myself.
 It was around this period I found myself caught up in the world of quantum computing.Both my parents are professors, my mum teaches physics and my dad computer science, so I felt it was a very natural thing to move to quantum computing, so in this semester I made sure to attend an online lecture series with my mum on quantum computing which one of her colleagues was offering.By this time I had gone comfortable to the idea of data structures, queue's , stacks's , linkedlist and array had become friends. But I was yet to truly grasp the idea of hashing. In my defence, I was occupied with quantum copmuting. In addition I flourished in differential equations, really liking the field and spreading my wings in the same.  
 _Semester 3_  
